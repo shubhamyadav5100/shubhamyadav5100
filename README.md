@@ -153,11 +153,11 @@ Software Development Practices
 
 🤝 Let's Connect
 
-<p align="left"><a href="YOUR_LINKEDIN_URL">
+<p align="left"><a href="https://www.linkedin.com/in/shubham-yadav-2ab7b63a0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="YOUR_INSTAGRAM_URL">
+</a><a href="https://www.instagram.com/shubham.ydv_45?stkn=N3l5aXRiNjZ6djJ6">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a><a href="https://github.com/YOUR_USERNAME">
+</a><a href="https://github.com/shubhamyadav5100">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></p>---
 
